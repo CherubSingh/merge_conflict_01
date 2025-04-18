@@ -1,0 +1,26 @@
+jwt for database
+Code First approach (do not make diagram in ssms,if you)
+no duplicate columns,no 10-20 table,no loop
+norm. ,
+
+registration,login,admin part,depending upon booking,reservation,cancelation,email notification,search engine(7)
+
+home load(if admin accepting or regecting email notification should be send)
+
+no registration for admin, create a hard coded value in table he will only login to do task;
+
+swager or postman
+
+naming convension,use logger,
+web api and mvc
+why jwt,why states less, why CFA ,what is eager lodaing
+
+ES4 architecture,jwt
+
+what is needleware
+data base diagram 
+
+
+
+
+on demand car wash
